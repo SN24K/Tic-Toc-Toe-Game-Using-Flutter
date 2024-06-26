@@ -1,6 +1,6 @@
-# tic_toc_toe_game
+# Tic Toc Toe game with Flutter
 
-"A new Flutter project."
+
 
 ## Getting Started
 
